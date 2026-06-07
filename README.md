@@ -64,13 +64,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shanmukhyadav123&theme=darkhub&no-frame=true&margin-w=15&column=7)
-
-</div>
 
 ---
 
