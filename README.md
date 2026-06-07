@@ -14,7 +14,7 @@
 
 - 🎯 I'm **Shanmukha Sri Sai Teja Manne**, a passionate **Developer**
 - 💡 I love solving problems on **LeetCode** and **HackerRank**
-- 🌱 Currently sharpening my skills in **React**, **Java**, and **Python**
+- 🌱 Currently sharpening my skills in **Java** , **React**
 - 🤝 Open to collaborating on interesting projects
 - ⚡ Fun fact: I debug with `print()` first, ask questions later
 
