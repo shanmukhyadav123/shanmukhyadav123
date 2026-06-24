@@ -80,6 +80,6 @@
 
 <div align="center">
 
-### 💬 *"Code. Learn. Grow. Repeat."* 
+### 💬 *"Code. Learn. Grow. "* 
 
 </div>
